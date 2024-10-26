@@ -1,6 +1,6 @@
-# 🎈 Blank app template
+# P2P Digital Land Cerfiticates
 
-A simple Streamlit app template for you to modify!
+A version 1 BETA for a P2P Digital Land Certificates
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
 
